@@ -1,0 +1,40 @@
+{
+  "house": [
+    {
+      "address": "은마아파트",
+      "price": ";;;;;;;dsafsafd",
+      "etc": ";;;;;;;;;;;sdfasasdassdjhf",
+      "id": 7
+    },
+    {
+      "address": "트리마제",
+      "price": "몰라",
+      "etc": "비쌈zzzzz",
+      "id": 8
+    },
+    {
+      "address": "타워팰리스",
+      "price": "444444444",
+      "etc": "롸?",
+      "id": 9
+    },
+    {
+      "address": "메세나폴리스",
+      "price": "sdf",
+      "etc": "dfgs",
+      "id": 10
+    },
+    {
+      "address": "dsfa",
+      "price": "safd",
+      "etc": "sadf",
+      "id": 11
+    },
+    {
+      "address": "sdaf",
+      "price": "sadf",
+      "etc": "sadf",
+      "id": 12
+    }
+  ]
+}
