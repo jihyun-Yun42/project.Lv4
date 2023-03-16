@@ -30,6 +30,8 @@ export const CardsBody = styled.div`
   overflow-y: auto;
   height: 1080px;
   display: flex;
+  // flex-direction: column;
+  flex-wrap: wrap;
   justify-content: flex-start;
   align-content: flex-start;
   gap: 30px;
